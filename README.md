@@ -25,13 +25,13 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 Connect with Me
 <!-- Add links to your social media accounts -->
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourprofile)
-- Personal Website: [Your Website](https://yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/aditya-raj-38a5a7286/))
+- Twitter: [Your Twitter Profile]([https://twitter.com/yourprofile](https://x.com/Aditya_raj9910))
+<!-- Personal Website: [Your Website](https://yourwebsite.com) -->
 
 ## 📝 Recent Blog Posts
-<!-- Optionally, add your recent blog posts -->
+<!-- Optionally, add your recent blog posts 
 - [Title of Blog Post 1](https://yourblog.com/post1)
 - [Title of Blog Post 2](https://yourblog.com/post2)
 
-<!-- If you have a footer, you can add it here -->
+If you have a footer, you can add it here -->
